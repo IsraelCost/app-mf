@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import Header from 'header'
 
 const App = () => (
-  <Header title="Israel" />
+  <Header title="Other title" />
 );
 
 ReactDOM.render(<App />, document.getElementById("app"));
